@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-26T20:31:47 IST" name="Default suite" finished-at="2023-07-26T20:32:05 IST" duration-ms="17262">
+    <groups>
+    </groups>
+    <test started-at="2023-07-26T20:31:47 IST" name="Default test" finished-at="2023-07-26T20:32:05 IST" duration-ms="17262">
+      <class name="ecommerce.Amazon">
+        <test-method signature="launchAmazon()[pri:0, instance:ecommerce.Amazon@44ebcd03]" started-at="2023-07-26T20:31:47 IST" name="launchAmazon" finished-at="2023-07-26T20:32:05 IST" duration-ms="17180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchAmazon -->
+      </class> <!-- ecommerce.Amazon -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
